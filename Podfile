@@ -7,7 +7,7 @@ target 'TrainingiOS' do
   pod "Kingfisher"
   pod "RxAlamofire"
   pod "RxSwift"
-
+  pod "RxCocoa"
   # Pods for TrainingiOS
 
 end
